@@ -1,6 +1,6 @@
 {
   "name": "@studio/log-format",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pretty print Studio Log streams",
   "browser": {
     "stream": "@studio/browser-stream"
